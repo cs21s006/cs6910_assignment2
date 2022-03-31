@@ -1,7 +1,5 @@
 from __future__ import print_function, division, absolute_import
-
 '''Source: https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/xception.py'''
-
 """
 Ported to pytorch thanks to [tstandley](https://github.com/tstandley/Xception-PyTorch)
 
